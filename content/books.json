@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "Better Angels of Our Nature",
+      "recommenders": ["Bill Gates", "Jeff Bezos", "Charlie Munger"],
+      "affLink": "https://amazon.com"
+    },
+    {
+      "title": "Guns, Germs, and Steel",
+      "recommenders": ["Bill Gates", "Jeff Bezos", "Charlie Munger"],
+      "affLink": "https://amazon.com"
+    },
+    {
+      "title": "Nine Pints",
+      "recommenders": ["Bill Gates", "Jeff Bezos", "Charlie Munger"],
+      "affLink": "https://amazon.com"
+    },
+    {
+      "title": "Sapiens",
+      "recommenders": ["Bill Gates", "Jeff Bezos", "Charlie Munger"],
+      "affLink": "https://amazon.com"
+    }
+  ]
+}
